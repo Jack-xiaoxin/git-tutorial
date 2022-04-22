@@ -2,3 +2,4 @@
 
 	featuer-A
 	fix-b
+	feature-C
